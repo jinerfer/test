@@ -16,6 +16,10 @@
 #define PORT 80
 #define BUFSIZE 1024
  
+ /*
+ *这是我的第一次上传
+ */
+ 
 int main(int argc, char **argv)
 {
         int sockfd, ret, i, h;
